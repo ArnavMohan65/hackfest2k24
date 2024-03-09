@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useLocation, useNavigate, Link } from "react-router-dom";
 import { FaHome, FaUser, FaListAlt, FaHandsHelping } from "react-icons/fa";
 import logo from '../components/Footer/logo.png';
+import "../dashboard/logo.css";
 
 const Sidebar = ({ user, isSiderOpen, setIsSiderOpen }) => {
   const { pathname } = useLocation();
