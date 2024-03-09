@@ -61,6 +61,8 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 - The frontend application can be accessed at `http://localhost:3000` in your web browser.
 - Follow the provided UI to navigate through the food donation process.
 
+-*MongoDB needs to be installed to run backend server*
+
 2. Backend:
 - The backend server will be running at `http://localhost:3000`.
 - The frontend application will communicate with the backend server for data exchange.
