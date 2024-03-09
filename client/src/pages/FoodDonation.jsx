@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import axios from "axios";
-import "./FoodDonation.css";
+import "./foodDonation.css";
 
 function FoodDonation() {
   const [foodName, setFoodName] = useState("");
