@@ -39,6 +39,8 @@ Food Donation is a web application aimed at connecting individuals and organizat
   npm run dev
   ```
 
+**MongoDB needs to be installed to run backend server**
+
 3. Backend Installation:
 - Navigate to the project backend directory:
   ```
