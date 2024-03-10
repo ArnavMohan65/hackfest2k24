@@ -1,6 +1,14 @@
-# Food Donation
+# HackFest2k24(Hackathon)_Food Donation
 
 
+## Problem Statement -
+Combating Food Waste: Build a software platform to 
+connect food banks and restaurants with individuals and 
+businesses to reduce food waste. This platform could include:
+• A marketplace for surplus food donation and purchase.
+• Real-time tracking of food donations and expiration dates.
+• Educational content on food waste reduction and efficient 
+utilization
 
 Food Donation is a web application aimed at connecting individuals and organizations willing to donate excess food with those in need. It provides a platform to reduce food wastage and contribute to the well-being of communities.
 
