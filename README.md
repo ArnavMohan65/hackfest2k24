@@ -23,11 +23,11 @@ Food Donation is a web application aimed at connecting individuals and organizat
 
 ## Technologies Used
 
-- Frontend: HTML [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev), CSS, JavaScript, React.js
-- Backend: Node.js, Express.js, MongoDB
+- Frontend: HTML [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev), CSS [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev), JavaScript[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev), React.js [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+- Backend: Node.js [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev), Express.js [![My Skills](https://skillicons.dev/icons?i=expressjs)](https://skillicons.dev), MongoDB [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 - Authentication: JSON Web Tokens (JWT)
 - Communication: Socket.IO
-- Hosting: Heroku (backend), Netlify (frontend)
+- Hosting: Heroku (backend) [![My Skills](https://skillicons.dev/icons?i=heroku)](https://skillicons.dev), Netlify (frontend) [![My Skills](https://skillicons.dev/icons?i=netlify)](https://skillicons.dev)
 
 ## Installation
 
