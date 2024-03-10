@@ -23,7 +23,7 @@ Food Donation is a web application aimed at connecting individuals and organizat
 
 ## Technologies Used
 
-- Frontend: HTML, CSS, JavaScript, React.js
+- Frontend: HTML [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev), CSS, JavaScript, React.js
 - Backend: Node.js, Express.js, MongoDB
 - Authentication: JSON Web Tokens (JWT)
 - Communication: Socket.IO
